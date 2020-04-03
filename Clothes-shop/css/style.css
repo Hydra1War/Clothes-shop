@@ -1,0 +1,26 @@
+body {
+
+}
+.free-shiping {
+  background: #F9F6F1;
+}
+.logo {
+  width: 40px;
+  height: 40px;
+}
+.first-screen__main-menu {
+  max-width: 1980px;
+  display: flex;
+}
+.group-for-who {
+  justify-content: left;
+  margin-right: 34%;
+  padding-left: 10%;
+}
+.for-who {
+  border: none;
+  margin-right: 3%;
+}
+.logo-all {
+  justify-content: center;
+}
